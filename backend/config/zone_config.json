@@ -1,0 +1,96 @@
+{
+  "safe_zone": {
+    "polygon": [
+      [
+        80,
+        220
+      ],
+      [
+        560,
+        220
+      ],
+      [
+        640,
+        580
+      ],
+      [
+        0,
+        580
+      ]
+    ],
+    "color": [
+      0,
+      220,
+      80
+    ],
+    "opacity": 0.12,
+    "label": "SAFE ZONE"
+  },
+  "danger_zone": {
+    "polygon": [
+      [
+        200,
+        350
+      ],
+      [
+        440,
+        350
+      ],
+      [
+        520,
+        480
+      ],
+      [
+        120,
+        480
+      ]
+    ],
+    "color": [
+      0,
+      0,
+      255
+    ],
+    "opacity": 0.3,
+    "label": "DANGER ZONE"
+  },
+  "warning_zone": {
+    "polygon": [
+      [
+        150,
+        300
+      ],
+      [
+        490,
+        300
+      ],
+      [
+        580,
+        520
+      ],
+      [
+        70,
+        520
+      ]
+    ],
+    "color": [
+      0,
+      165,
+      255
+    ],
+    "opacity": 0.2,
+    "label": "MEDIUM ZONE"
+  },
+  "track_center_line": [
+    [
+      320,
+      350
+    ],
+    [
+      320,
+      480
+    ]
+  ],
+  "frame_width": 640,
+  "frame_height": 480,
+  "zone_enabled": true
+}

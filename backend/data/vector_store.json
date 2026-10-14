@@ -1,0 +1,812 @@
+{
+  "documents": [
+    {
+      "text": "station_name: Coimbatore Junction | station_code: CBE | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: Er. Rishe S | designation: Chief Divisional Safety Officer & Emergency Controller | email: rishe8080s@gmail.com | phone_number: +91 94432 18080 | jurisdiction_section: Coimbatore Junction - Podanur - Irugur Track Section | emergency_role: PRIMARY_SAFETY_DISPATCH | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 0,
+        "metadata": {
+          "station_name": "Coimbatore Junction",
+          "station_code": "CBE",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "Er. Rishe S",
+          "designation": "Chief Divisional Safety Officer & Emergency Controller",
+          "email": "rishe8080s@gmail.com",
+          "phone_number": "+91 94432 18080",
+          "jurisdiction_section": "Coimbatore Junction - Podanur - Irugur Track Section",
+          "emergency_role": "PRIMARY_SAFETY_DISPATCH",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "station_name: Coimbatore Junction | station_code: CBE | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: K. Ramanathan | designation: Station Master (Operating In-Charge) | email: sm.coimbatore@sr.railnet.gov.in | phone_number: +91 422 2300130 | jurisdiction_section: Coimbatore Junction Railway Yard & Passenger Tracks | emergency_role: STATION_OPERATIONS_DISPATCH | priority_level: 2",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 1,
+        "metadata": {
+          "station_name": "Coimbatore Junction",
+          "station_code": "CBE",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "K. Ramanathan",
+          "designation": "Station Master (Operating In-Charge)",
+          "email": "sm.coimbatore@sr.railnet.gov.in",
+          "phone_number": "+91 422 2300130",
+          "jurisdiction_section": "Coimbatore Junction Railway Yard & Passenger Tracks",
+          "emergency_role": "STATION_OPERATIONS_DISPATCH",
+          "priority_level": "2"
+        }
+      }
+    },
+    {
+      "text": "station_name: Coimbatore Junction | station_code: CBE | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: M. Senthil Kumar | designation: Senior Section Engineer (Permanent Way - Track Safety) | email: sse.pway.cbe@sr.railnet.gov.in | phone_number: +91 94432 55670 | jurisdiction_section: Coimbatore Track Bed & Danger Zone Clearance | emergency_role: TRACK_MAINTENANCE_INCHARGE | priority_level: 2",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 2,
+        "metadata": {
+          "station_name": "Coimbatore Junction",
+          "station_code": "CBE",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "M. Senthil Kumar",
+          "designation": "Senior Section Engineer (Permanent Way - Track Safety)",
+          "email": "sse.pway.cbe@sr.railnet.gov.in",
+          "phone_number": "+91 94432 55670",
+          "jurisdiction_section": "Coimbatore Track Bed & Danger Zone Clearance",
+          "emergency_role": "TRACK_MAINTENANCE_INCHARGE",
+          "priority_level": "2"
+        }
+      }
+    },
+    {
+      "text": "station_name: Coimbatore Junction | station_code: CBE | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: Inspector R. Vijayakumar | designation: Railway Protection Force (RPF Post Commander) | email: rpf.cbe@sr.railnet.gov.in | phone_number: +91 422 2302244 | jurisdiction_section: Track Security and Trespassing Prevention | emergency_role: TRACK_SECURITY_DISPATCH | priority_level: 3",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 3,
+        "metadata": {
+          "station_name": "Coimbatore Junction",
+          "station_code": "CBE",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "Inspector R. Vijayakumar",
+          "designation": "Railway Protection Force (RPF Post Commander)",
+          "email": "rpf.cbe@sr.railnet.gov.in",
+          "phone_number": "+91 422 2302244",
+          "jurisdiction_section": "Track Security and Trespassing Prevention",
+          "emergency_role": "TRACK_SECURITY_DISPATCH",
+          "priority_level": "3"
+        }
+      }
+    },
+    {
+      "text": "station_name: Podanur Junction | station_code: PTJ | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: T. Selvam | designation: Station Superintendent | email: ss.podanur@sr.railnet.gov.in | phone_number: +91 422 2410222 | jurisdiction_section: Podanur Junction & Freight Bypass Line | emergency_role: STATION_OPERATIONS_DISPATCH | priority_level: 2",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 4,
+        "metadata": {
+          "station_name": "Podanur Junction",
+          "station_code": "PTJ",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "T. Selvam",
+          "designation": "Station Superintendent",
+          "email": "ss.podanur@sr.railnet.gov.in",
+          "phone_number": "+91 422 2410222",
+          "jurisdiction_section": "Podanur Junction & Freight Bypass Line",
+          "emergency_role": "STATION_OPERATIONS_DISPATCH",
+          "priority_level": "2"
+        }
+      }
+    },
+    {
+      "text": "station_name: Madukkarai Railway Station | station_code: MDKI | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: A. Prakash | designation: Station Master & Forest Border Monitor | email: sm.madukkarai@sr.railnet.gov.in | phone_number: +91 422 2622150 | jurisdiction_section: Madukkarai Quarry Track Section & Curve | emergency_role: TRACK_SAFETY_DISPATCH | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 5,
+        "metadata": {
+          "station_name": "Madukkarai Railway Station",
+          "station_code": "MDKI",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "A. Prakash",
+          "designation": "Station Master & Forest Border Monitor",
+          "email": "sm.madukkarai@sr.railnet.gov.in",
+          "phone_number": "+91 422 2622150",
+          "jurisdiction_section": "Madukkarai Quarry Track Section & Curve",
+          "emergency_role": "TRACK_SAFETY_DISPATCH",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "station_name: Erode Junction | station_code: ED | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: P. Murugesan | designation: Station Director & Emergency Incident Commander | email: sd.erode@sr.railnet.gov.in | phone_number: +91 424 2256100 | jurisdiction_section: Erode Section & Kaveri Railway Bridge | emergency_role: STATION_OPERATIONS_DISPATCH | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 6,
+        "metadata": {
+          "station_name": "Erode Junction",
+          "station_code": "ED",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "P. Murugesan",
+          "designation": "Station Director & Emergency Incident Commander",
+          "email": "sd.erode@sr.railnet.gov.in",
+          "phone_number": "+91 424 2256100",
+          "jurisdiction_section": "Erode Section & Kaveri Railway Bridge",
+          "emergency_role": "STATION_OPERATIONS_DISPATCH",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "station_name: Erode Junction | station_code: ED | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: D. Balachander | designation: Senior Section Engineer (Permanent Way) | email: sse.pway.ed@sr.railnet.gov.in | phone_number: +91 94432 55680 | jurisdiction_section: Erode Track Infrastructure & Signals | emergency_role: TRACK_MAINTENANCE_INCHARGE | priority_level: 2",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 7,
+        "metadata": {
+          "station_name": "Erode Junction",
+          "station_code": "ED",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "D. Balachander",
+          "designation": "Senior Section Engineer (Permanent Way)",
+          "email": "sse.pway.ed@sr.railnet.gov.in",
+          "phone_number": "+91 94432 55680",
+          "jurisdiction_section": "Erode Track Infrastructure & Signals",
+          "emergency_role": "TRACK_MAINTENANCE_INCHARGE",
+          "priority_level": "2"
+        }
+      }
+    },
+    {
+      "text": "station_name: Tiruppur Railway Station | station_code: TUP | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: S. Anand | designation: Station Superintendent In-Charge | email: ss.tiruppur@sr.railnet.gov.in | phone_number: +91 421 2200234 | jurisdiction_section: Tiruppur - Vanjipalayam High Speed Corridor | emergency_role: STATION_OPERATIONS_DISPATCH | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 8,
+        "metadata": {
+          "station_name": "Tiruppur Railway Station",
+          "station_code": "TUP",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "S. Anand",
+          "designation": "Station Superintendent In-Charge",
+          "email": "ss.tiruppur@sr.railnet.gov.in",
+          "phone_number": "+91 421 2200234",
+          "jurisdiction_section": "Tiruppur - Vanjipalayam High Speed Corridor",
+          "emergency_role": "STATION_OPERATIONS_DISPATCH",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "station_name: Salem Junction | station_code: SA | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: Divisional Railway Manager (Emergency Cell) | designation: Chief Controller & Divisional Safety Officer | email: drm.salem@sr.railnet.gov.in | phone_number: +91 427 2440001 | jurisdiction_section: Salem Division Central Control Room & Operations | emergency_role: DIVISIONAL_HQ_ESCALATION | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 9,
+        "metadata": {
+          "station_name": "Salem Junction",
+          "station_code": "SA",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "Divisional Railway Manager (Emergency Cell)",
+          "designation": "Chief Controller & Divisional Safety Officer",
+          "email": "drm.salem@sr.railnet.gov.in",
+          "phone_number": "+91 427 2440001",
+          "jurisdiction_section": "Salem Division Central Control Room & Operations",
+          "emergency_role": "DIVISIONAL_HQ_ESCALATION",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "station_name: Palakkad Junction | station_code: PGT | division: Palakkad Division | railway_zone: Southern Railway | officer_in_charge: V. Gopakumar | designation: Divisional Safety Officer & Wildlife Corridor Coordinator | email: dso.palakkad@sr.railnet.gov.in | phone_number: +91 491 2555231 | jurisdiction_section: Palakkad - Walayar - Madukkarai Forest Elephant Corridor | emergency_role: WILDLIFE_CORRIDOR_SAFETY | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 10,
+        "metadata": {
+          "station_name": "Palakkad Junction",
+          "station_code": "PGT",
+          "division": "Palakkad Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "V. Gopakumar",
+          "designation": "Divisional Safety Officer & Wildlife Corridor Coordinator",
+          "email": "dso.palakkad@sr.railnet.gov.in",
+          "phone_number": "+91 491 2555231",
+          "jurisdiction_section": "Palakkad - Walayar - Madukkarai Forest Elephant Corridor",
+          "emergency_role": "WILDLIFE_CORRIDOR_SAFETY",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "station_name: Walayar Railway Station | station_code: WRA | division: Palakkad Division | railway_zone: Southern Railway | officer_in_charge: C. Rajesh | designation: Station Master & Forest Corridor Watcher | email: sm.walayar@sr.railnet.gov.in | phone_number: +91 491 2862300 | jurisdiction_section: Walayar Ghat Section & Elephant Crossing Tracks | emergency_role: TRACK_SAFETY_DISPATCH | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 11,
+        "metadata": {
+          "station_name": "Walayar Railway Station",
+          "station_code": "WRA",
+          "division": "Palakkad Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "C. Rajesh",
+          "designation": "Station Master & Forest Corridor Watcher",
+          "email": "sm.walayar@sr.railnet.gov.in",
+          "phone_number": "+91 491 2862300",
+          "jurisdiction_section": "Walayar Ghat Section & Elephant Crossing Tracks",
+          "emergency_role": "TRACK_SAFETY_DISPATCH",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "station_name: Puratchi Thalaivar Dr. M.G. Ramachandran Central Railway Station | station_code: MAS | division: Chennai Division | railway_zone: Southern Railway | officer_in_charge: Chief Traction & Safety Controller | designation: Central Emergency Cell In-Charge | email: control.chennai@sr.railnet.gov.in | phone_number: +91 44 25353545 | jurisdiction_section: Chennai Central Trunk Routes & Control Room | emergency_role: ZONAL_HQ_ESCALATION | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 12,
+        "metadata": {
+          "station_name": "Puratchi Thalaivar Dr. M.G. Ramachandran Central Railway Station",
+          "station_code": "MAS",
+          "division": "Chennai Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "Chief Traction & Safety Controller",
+          "designation": "Central Emergency Cell In-Charge",
+          "email": "control.chennai@sr.railnet.gov.in",
+          "phone_number": "+91 44 25353545",
+          "jurisdiction_section": "Chennai Central Trunk Routes & Control Room",
+          "emergency_role": "ZONAL_HQ_ESCALATION",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "station_name: Southern Railway Headquarters | station_code: SRHQ | division: Headquarters | railway_zone: Southern Railway | officer_in_charge: Principal Chief Safety Officer (PCSO) | designation: Zonal Disaster Management Controller | email: pcso@sr.railnet.gov.in | phone_number: +91 44 25353123 | jurisdiction_section: All Southern Railway Divisions & Safety Operations | emergency_role: ZONAL_DISASTER_MANAGEMENT | priority_level: 1",
+      "source": "indian_railways_station_authorities.csv",
+      "metadata": {
+        "source": "indian_railways_station_authorities.csv",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\indian_railways_station_authorities.csv",
+        "chunk_index": 13,
+        "metadata": {
+          "station_name": "Southern Railway Headquarters",
+          "station_code": "SRHQ",
+          "division": "Headquarters",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "Principal Chief Safety Officer (PCSO)",
+          "designation": "Zonal Disaster Management Controller",
+          "email": "pcso@sr.railnet.gov.in",
+          "phone_number": "+91 44 25353123",
+          "jurisdiction_section": "All Southern Railway Divisions & Safety Operations",
+          "emergency_role": "ZONAL_DISASTER_MANAGEMENT",
+          "priority_level": "1"
+        }
+      }
+    },
+    {
+      "text": "# Indian Railways Safety Protocol & Emergency Authority Escalation Manual ## 1. Executive Summary & Purpose This document constitutes the official railway knowledge base governing automated track vulnerability monitoring, emergency intrusion protocols, and direct authority notification routing for the Southern Railway zone and its operating divisions (Salem Division, Palakkad Division, Chennai Division).",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 0,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "m Division, Palakkad Division, Chennai Division). When automated computer vision and deep learning models detect unauthorized entities (humans, wild elephants, cattle, vehicles, boulders, or debris) in the **Danger Zone** (Track Bed) or **Medium Zone** (Track Clearance Envelope), the AI Agent Pipeline queries this document repository via Retrieval-Augmented Generation (RAG) to determine the designated In-Charge Authority based on the current GPS location, nearest railway station,",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 1,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "he current GPS location, nearest railway station, and divisional jurisdiction. --- ## 2. Divisional Jurisdictions & Station Master In-Charge Directory ### 2.1 Salem Division (Coimbatore Section) — Primary Operational Sector - **Division Name**: Salem Division (SA Division) - **Railway Zone**: Southern Railway (SR) - **Primary Station**: Coimbatore Junction (Station Code: CBE) - **GPS Coordinates**: 11.0168° N,",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 2,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "ion Code: CBE) - **GPS Coordinates**: 11.0168° N, 76.9558° E - **Track Sections**: Coimbatore Junction - Podanur - Irugur - Singanallur Track Sections #### Designated Authorities for Coimbatore Section: 1. **Chief Divisional Safety Officer & Emergency Controller (Primary In-Charge)**: - **Name**: Er.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 3,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "Controller (Primary In-Charge)**: - **Name**: Er. Rishe S - **Designation**: Chief Divisional Safety Officer & Emergency Operations In-Charge - **Email**: `rishe8080s@gmail.com` - **Mobile**: +91 94432 18080 - **Jurisdiction**: Coimbatore Junction, Podanur, Madukkarai, Irugur Danger Zone Tracks - **Mandate**: Receives immediate Tier-1 critical track intrusion alerts, initiates caution orders to approaching locomotives, coordinates with DRM control room. 2.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 4,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "ocomotives, coordinates with DRM control room. 2. **Station Master (Operating In-Charge)**: - **Name**: K. Ramanathan - **Designation**: Station Master In-Charge, Coimbatore Junction - **Email**: `sm.coimbatore@sr.railnet.gov.in` - **Phone**: +91 422 2300130 - **Jurisdiction**: Coimbatore Junction Yard, Track Lines 1-6, Passenger Platforms 3. **Senior Section Engineer (Permanent Way - Track Safety)**: - **Name**: M.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 5,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "(Permanent Way - Track Safety)**: - **Name**: M. Senthil Kumar - **Designation**: Senior Section Engineer (P-Way Track Maintenance) - **Email**: `sse.pway.cbe@sr.railnet.gov.in` - **Phone**: +91 94432 55670 - **Jurisdiction**: Coimbatore Permanent Way, Rails, Sleepers, Ballast and Clearance Envelope 4. **Railway Protection Force (RPF Post In-Charge)**: - **Name**: Inspector R.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 6,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "(RPF Post In-Charge)**: - **Name**: Inspector R. Vijayakumar - **Designation**: RPF Post Commander - **Email**: `rpf.cbe@sr.railnet.gov.in` - **Phone**: +91 422 2302244 - **Jurisdiction**: Track trespassing security and trespass eviction --- ### 2.2 Salem Division (Erode Section) - **Station**: Erode Junction (Station Code: ED) - **GPS Coordinates**: 11.3410° N, 77.7172° E - **Officer In-Charge**: P.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 7,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "1.3410° N, 77.7172° E - **Officer In-Charge**: P. Murugesan - **Designation**: Station Director & Emergency Incident Commander - **Email**: `sd.erode@sr.railnet.gov.in` - **Phone**: +91 424 2256100 - **Track Engineer**: D. Balachander (SSE P-Way, `sse.pway.ed@sr.railnet.gov.in`, +91 94432 55680) - **Jurisdiction**: Erode Railway Yard, Kaveri River Railway Bridge,",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 8,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "Erode Railway Yard, Kaveri River Railway Bridge, Chittsari Section --- ### 2.3 Salem Division (Tiruppur Section) - **Station**: Tiruppur Railway Station (Station Code: TUP) - **GPS Coordinates**: 11.1085° N, 77.3411° E - **Officer In-Charge**: S. Anand - **Designation**: Station Superintendent In-Charge - **Email**: `ss.tiruppur@sr.railnet.gov.in` - **Phone**: +91 421 2200234 - **Jurisdiction**: Tiruppur - Vanjipalayam - Uthukuli High-Speed Corridor --- ### 2.4 Palakkad Division (Walayar - Madu",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 9,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "idor --- ### 2.4 Palakkad Division (Walayar - Madukkarai Wildlife & Elephant Corridor) - **Station**: Palakkad Junction (Station Code: PGT) / Walayar (Station Code: WRA) - **GPS Coordinates**: 10.7867° N, 76.6548° E - **Officer In-Charge**: V. Gopakumar - **Designation**: Divisional Safety Officer & Wildlife Corridor Coordinator - **Email**: `dso.palakkad@sr.railnet.gov.in` - **Phone**: +91 491 2555231 - **Field Station Master**: C.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 10,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "*: +91 491 2555231 - **Field Station Master**: C. Rajesh (`sm.walayar@sr.railnet.gov.in`, +91 491 2862300) - **Special Jurisdiction**: Ghat section between Palakkad, Walayar and Madukkarai known for elephant track crossings. Emergency alerts require instant alert to loco pilots and forest ranger task forces.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 11,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "ert to loco pilots and forest ranger task forces. --- ### 2.5 Chennai Division & Zonal Headquarters Escalation - **Station**: Chennai Central (Station Code: MAS) - **Officer In-Charge**: Chief Traction & Safety Controller - **Email**: `control.chennai@sr.railnet.gov.in` - **Phone**: +91 44 25353545 - **Zonal Disaster Management**: Principal Chief Safety Officer (PCSO), Southern Railway (`pcso@sr.railnet.gov.in`, +91 44 25353123) --- ## 3. Automated Emergency Alert Escalation Protocol 1.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 12,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "Automated Emergency Alert Escalation Protocol 1. **Danger Zone Penetration**: Whenever any tracked entity enters the designated Danger Zone polygon, the RAG agent identifies the nearest station and matching In-Charge Officer. 2. **Immediate Email Dispatch**: The notification service transmits high-priority SMTP alert emails to the retrieved In-Charge Authority's email address (for Coimbatore: `rishe8080s@gmail.com`). 3.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 13,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "ress (for Coimbatore: `rishe8080s@gmail.com`). 3. **Information Included**: - Location name and GPS latitude/longitude coordinates - Nearest station and railway division - Obstruction category, count, and confidence level - Approaching train details: train number, name, distance, speed, and calculated Time-To-Impact (TTI) - Photographic evidence frame with annotated ROI bounding boxes and zone polygons.",
+      "source": "railway_safety_and_emergency_manual.md",
+      "metadata": {
+        "source": "railway_safety_and_emergency_manual.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\railway_safety_and_emergency_manual.md",
+        "chunk_index": 14,
+        "total_chunks": 15,
+        "metadata": {
+          "source": "railway_safety_and_emergency_manual.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "station_name: Coimbatore Junction | station_code: CBE | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: Er. Rishe S | designation: Chief Divisional Safety Officer & Emergency Controller | email: rishe8080s@gmail.com | phone: +91 94432 18080 | latitude: 11.0168 | longitude: 76.9558 | section: Coimbatore - Podanur - Irugur Track Section | role: PRIMARY_INCHARGE | priority: 1",
+      "source": "station_jurisdiction_roster.json",
+      "metadata": {
+        "source": "station_jurisdiction_roster.json",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\station_jurisdiction_roster.json",
+        "chunk_index": 0,
+        "metadata": {
+          "station_name": "Coimbatore Junction",
+          "station_code": "CBE",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "Er. Rishe S",
+          "designation": "Chief Divisional Safety Officer & Emergency Controller",
+          "email": "rishe8080s@gmail.com",
+          "phone": "+91 94432 18080",
+          "latitude": 11.0168,
+          "longitude": 76.9558,
+          "section": "Coimbatore - Podanur - Irugur Track Section",
+          "role": "PRIMARY_INCHARGE",
+          "priority": 1
+        }
+      }
+    },
+    {
+      "text": "station_name: Coimbatore Junction | station_code: CBE | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: K. Ramanathan | designation: Station Master (Operating In-Charge) | email: sm.coimbatore@sr.railnet.gov.in | phone: +91 422 2300130 | latitude: 11.0168 | longitude: 76.9558 | section: Coimbatore Junction Station Yard | role: STATION_INCHARGE | priority: 2",
+      "source": "station_jurisdiction_roster.json",
+      "metadata": {
+        "source": "station_jurisdiction_roster.json",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\station_jurisdiction_roster.json",
+        "chunk_index": 1,
+        "metadata": {
+          "station_name": "Coimbatore Junction",
+          "station_code": "CBE",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "K. Ramanathan",
+          "designation": "Station Master (Operating In-Charge)",
+          "email": "sm.coimbatore@sr.railnet.gov.in",
+          "phone": "+91 422 2300130",
+          "latitude": 11.0168,
+          "longitude": 76.9558,
+          "section": "Coimbatore Junction Station Yard",
+          "role": "STATION_INCHARGE",
+          "priority": 2
+        }
+      }
+    },
+    {
+      "text": "station_name: Coimbatore Junction | station_code: CBE | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: M. Senthil Kumar | designation: Senior Section Engineer (Permanent Way) | email: sse.pway.cbe@sr.railnet.gov.in | phone: +91 94432 55670 | latitude: 11.0168 | longitude: 76.9558 | section: Coimbatore Track Maintenance & Clearance Zone | role: TRACK_SAFETY | priority: 2",
+      "source": "station_jurisdiction_roster.json",
+      "metadata": {
+        "source": "station_jurisdiction_roster.json",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\station_jurisdiction_roster.json",
+        "chunk_index": 2,
+        "metadata": {
+          "station_name": "Coimbatore Junction",
+          "station_code": "CBE",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "M. Senthil Kumar",
+          "designation": "Senior Section Engineer (Permanent Way)",
+          "email": "sse.pway.cbe@sr.railnet.gov.in",
+          "phone": "+91 94432 55670",
+          "latitude": 11.0168,
+          "longitude": 76.9558,
+          "section": "Coimbatore Track Maintenance & Clearance Zone",
+          "role": "TRACK_SAFETY",
+          "priority": 2
+        }
+      }
+    },
+    {
+      "text": "station_name: Podanur Junction | station_code: PTJ | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: T. Selvam | designation: Station Superintendent | email: ss.podanur@sr.railnet.gov.in | phone: +91 422 2410222 | latitude: 10.9701 | longitude: 76.9744 | section: Podanur Yard & Bypass Tracks | role: STATION_INCHARGE | priority: 2",
+      "source": "station_jurisdiction_roster.json",
+      "metadata": {
+        "source": "station_jurisdiction_roster.json",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\station_jurisdiction_roster.json",
+        "chunk_index": 3,
+        "metadata": {
+          "station_name": "Podanur Junction",
+          "station_code": "PTJ",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "T. Selvam",
+          "designation": "Station Superintendent",
+          "email": "ss.podanur@sr.railnet.gov.in",
+          "phone": "+91 422 2410222",
+          "latitude": 10.9701,
+          "longitude": 76.9744,
+          "section": "Podanur Yard & Bypass Tracks",
+          "role": "STATION_INCHARGE",
+          "priority": 2
+        }
+      }
+    },
+    {
+      "text": "station_name: Erode Junction | station_code: ED | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: P. Murugesan | designation: Station Director & Emergency Incident Commander | email: sd.erode@sr.railnet.gov.in | phone: +91 424 2256100 | latitude: 11.341 | longitude: 77.7172 | section: Erode Section & Kaveri Railway Bridge | role: PRIMARY_INCHARGE | priority: 1",
+      "source": "station_jurisdiction_roster.json",
+      "metadata": {
+        "source": "station_jurisdiction_roster.json",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\station_jurisdiction_roster.json",
+        "chunk_index": 4,
+        "metadata": {
+          "station_name": "Erode Junction",
+          "station_code": "ED",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "P. Murugesan",
+          "designation": "Station Director & Emergency Incident Commander",
+          "email": "sd.erode@sr.railnet.gov.in",
+          "phone": "+91 424 2256100",
+          "latitude": 11.341,
+          "longitude": 77.7172,
+          "section": "Erode Section & Kaveri Railway Bridge",
+          "role": "PRIMARY_INCHARGE",
+          "priority": 1
+        }
+      }
+    },
+    {
+      "text": "station_name: Tiruppur Railway Station | station_code: TUP | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: S. Anand | designation: Station Superintendent In-Charge | email: ss.tiruppur@sr.railnet.gov.in | phone: +91 421 2200234 | latitude: 11.1085 | longitude: 77.3411 | section: Tiruppur - Vanjipalayam Track Section | role: PRIMARY_INCHARGE | priority: 1",
+      "source": "station_jurisdiction_roster.json",
+      "metadata": {
+        "source": "station_jurisdiction_roster.json",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\station_jurisdiction_roster.json",
+        "chunk_index": 5,
+        "metadata": {
+          "station_name": "Tiruppur Railway Station",
+          "station_code": "TUP",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "S. Anand",
+          "designation": "Station Superintendent In-Charge",
+          "email": "ss.tiruppur@sr.railnet.gov.in",
+          "phone": "+91 421 2200234",
+          "latitude": 11.1085,
+          "longitude": 77.3411,
+          "section": "Tiruppur - Vanjipalayam Track Section",
+          "role": "PRIMARY_INCHARGE",
+          "priority": 1
+        }
+      }
+    },
+    {
+      "text": "station_name: Salem Junction | station_code: SA | division: Salem Division | railway_zone: Southern Railway | officer_in_charge: Divisional Railway Manager (Control Room) | designation: Chief Controller & Divisional Safety Officer | email: drm.salem@sr.railnet.gov.in | phone: +91 427 2440001 | latitude: 11.6643 | longitude: 78.146 | section: Salem Division Central Operations | role: DIVISIONAL_HQ | priority: 1",
+      "source": "station_jurisdiction_roster.json",
+      "metadata": {
+        "source": "station_jurisdiction_roster.json",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\station_jurisdiction_roster.json",
+        "chunk_index": 6,
+        "metadata": {
+          "station_name": "Salem Junction",
+          "station_code": "SA",
+          "division": "Salem Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "Divisional Railway Manager (Control Room)",
+          "designation": "Chief Controller & Divisional Safety Officer",
+          "email": "drm.salem@sr.railnet.gov.in",
+          "phone": "+91 427 2440001",
+          "latitude": 11.6643,
+          "longitude": 78.146,
+          "section": "Salem Division Central Operations",
+          "role": "DIVISIONAL_HQ",
+          "priority": 1
+        }
+      }
+    },
+    {
+      "text": "station_name: Palakkad Junction | station_code: PGT | division: Palakkad Division | railway_zone: Southern Railway | officer_in_charge: V. Gopakumar | designation: Divisional Safety Officer & Wildlife Corridor Coordinator | email: dso.palakkad@sr.railnet.gov.in | phone: +91 491 2555231 | latitude: 10.7867 | longitude: 76.6548 | section: Palakkad - Walayar - Madukkarai Forest Elephant Corridor | role: PRIMARY_INCHARGE | priority: 1",
+      "source": "station_jurisdiction_roster.json",
+      "metadata": {
+        "source": "station_jurisdiction_roster.json",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\station_jurisdiction_roster.json",
+        "chunk_index": 7,
+        "metadata": {
+          "station_name": "Palakkad Junction",
+          "station_code": "PGT",
+          "division": "Palakkad Division",
+          "railway_zone": "Southern Railway",
+          "officer_in_charge": "V. Gopakumar",
+          "designation": "Divisional Safety Officer & Wildlife Corridor Coordinator",
+          "email": "dso.palakkad@sr.railnet.gov.in",
+          "phone": "+91 491 2555231",
+          "latitude": 10.7867,
+          "longitude": 76.6548,
+          "section": "Palakkad - Walayar - Madukkarai Forest Elephant Corridor",
+          "role": "PRIMARY_INCHARGE",
+          "priority": 1
+        }
+      }
+    },
+    {
+      "text": "# DocQA Studio — Conversation Transcript **Document:** RISHE_S_Resume.pdf **Export Date:** 10/10/2026, 11:07:01 AM **Model:** openai/gpt-oss-120b --- ### 🤖 Assistant **Document Ready!** I have parsed and indexed **RISHE_S_Resume.pdf** (1 pages, 5 semantic chunks). You can ask any question about this document, or click one of the **Quick Prompts** in the sidebar.",
+      "source": "DocQA_Transcript.md",
+      "metadata": {
+        "source": "DocQA_Transcript.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\DocQA_Transcript.md",
+        "chunk_index": 0,
+        "total_chunks": 7,
+        "metadata": {
+          "source": "DocQA_Transcript.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "lick one of the **Quick Prompts** in the sidebar. *Sources cited: Pages 1* --- ### 👤 User what are the projects mentioned ?? --- ### 🤖 Assistant **Projects Mentioned in the Uploaded Resume** | # | Project Name | Brief Description | Primary Technologies / Tools | |---|--------------|-------------------|------------------------------| | 1 | **Full‑Stack Website for Pluto Intero** | Developed a complete web application for a startup selling eco‑friendly decorative lamps made from recycled plastics.",
+      "source": "DocQA_Transcript.md",
+      "metadata": {
+        "source": "DocQA_Transcript.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\DocQA_Transcript.md",
+        "chunk_index": 1,
+        "total_chunks": 7,
+        "metadata": {
+          "source": "DocQA_Transcript.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "ndly decorative lamps made from recycled plastics. Implemented product display, user authentication, and online interaction. | MERN stack (MongoDB, Express, React, Node.js) + Firebase **(Page 1)** | | 2 | **Plant Disease Prediction** | Built a Convolutional Neural Network (CNN) system that classifies plant diseases from leaf images, enabling early and accurate detection.",
+      "source": "DocQA_Transcript.md",
+      "metadata": {
+        "source": "DocQA_Transcript.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\DocQA_Transcript.md",
+        "chunk_index": 2,
+        "total_chunks": 7,
+        "metadata": {
+          "source": "DocQA_Transcript.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "af images, enabling early and accurate detection. | Python, TensorFlow/Keras, OpenCV (implied by “CNN‑based”) **(Page 1)** | | 3 | **RAG‑Powered Document Chatbot** | Created a Retrieval‑Augmented Generation (RAG) chatbot that lets users upload documents and receive context‑aware answers drawn from the document content.",
+      "source": "DocQA_Transcript.md",
+      "metadata": {
+        "source": "DocQA_Transcript.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\DocQA_Transcript.md",
+        "chunk_index": 3,
+        "total_chunks": 7,
+        "metadata": {
+          "source": "DocQA_Transcript.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "xt‑aware answers drawn from the document content. | Python, LLM, RAG, FAISS, Sentence Transformers, React JS **(Page 1)** | | 4 | **AI Study Buddy (Math Bot)** | Developed “MathBot”, an AI‑driven math assistant capable of solving problems supplied as text, images, camera input, or handwritten equations.",
+      "source": "DocQA_Transcript.md",
+      "metadata": {
+        "source": "DocQA_Transcript.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\DocQA_Transcript.md",
+        "chunk_index": 4,
+        "total_chunks": 7,
+        "metadata": {
+          "source": "DocQA_Transcript.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": ", images, camera input, or handwritten equations. | Python, MobileNet‑SSD, TensorFlow/Keras, OpenCV, NumPy, React JS (as listed under tech stack) **(Page 1)** | | 5 | **Interactive Tamil Language Chatbot** *(award‑linked project)* | Designed an interactive chatbot for Tamil language conversations; earned 1st prize in an internal club competition.",
+      "source": "DocQA_Transcript.md",
+      "metadata": {
+        "source": "DocQA_Transcript.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\DocQA_Transcript.md",
+        "chunk_index": 5,
+        "total_chunks": 7,
+        "metadata": {
+          "source": "DocQA_Transcript.md",
+          "format": ".md"
+        }
+      }
+    },
+    {
+      "text": "earned 1st prize in an internal club competition. | Not explicitly listed, but associated with AI/Chatbot development **(Page 1)** | > **Note:** All project entries are extracted directly from the resume excerpts provided (all located on **Page 1**). No additional information beyond what is present in the document has been inferred. *Sources cited: Pages 1* ---",
+      "source": "DocQA_Transcript.md",
+      "metadata": {
+        "source": "DocQA_Transcript.md",
+        "filepath": "C:\\Users\\Rishe\\OneDrive\\Pictures\\ME\\RTDETR\\Rtdetr-y\\backend\\data\\knowledge_base\\DocQA_Transcript.md",
+        "chunk_index": 6,
+        "total_chunks": 7,
+        "metadata": {
+          "source": "DocQA_Transcript.md",
+          "format": ".md"
+        }
+      }
+    }
+  ]
+}

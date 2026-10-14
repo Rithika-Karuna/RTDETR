@@ -1,0 +1,29 @@
+{
+  "email": {
+    "enabled": true,
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_use_tls": true,
+    "sender_email": "rishe8080s@gmail.com",
+    "sender_password": "amig fyic qggo vagg",
+    "sender_name": "Railway Track Alert System",
+    "default_recipients": [
+      "rishe8080s@gmail.com"
+    ]
+  },
+  "whatsapp": {
+    "enabled": false,
+    "provider": "twilio",
+    "account_sid": "",
+    "auth_token": "",
+    "from_number": "",
+    "default_recipients": []
+  },
+  "alert_cooldown_seconds": 300,
+  "max_alerts_per_hour": 10,
+  "include_evidence_image": true,
+  "templates": {
+    "email_subject": "⚠️ {risk_level} RAILWAY TRACK OBSTRUCTION — Immediate Attention Required",
+    "whatsapp_message": "🚨 {risk_level} ALERT\n\nRailway track obstruction detected.\n\nLocation: {location}\nObject: {object_type}\nCount: {object_count}\nStatus: {status}\nTrain: {train_info}\nRisk: {risk_level}\nRisk Score: {risk_score}/100\nGPS: {gps}\nNearest Station: {nearest_station}\n\n⚠️ Immediate verification/action required.\nThis is an automated early-warning alert."
+  }
+}
