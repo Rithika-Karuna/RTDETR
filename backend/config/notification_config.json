@@ -5,7 +5,6 @@
     "smtp_port": 587,
     "smtp_use_tls": true,
     "sender_email": "rishe8080s@gmail.com",
-    "sender_password": "amig fyic qggo vagg",
     "sender_name": "Railway Track Alert System",
     "default_recipients": [
       "rishe8080s@gmail.com"
